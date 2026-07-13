@@ -1,6 +1,6 @@
 # The Pricing Of Uncertainty
 
-### Preface
+## **Preface**
 
 This essay is an exploration of an idea still in development.
 
@@ -12,7 +12,7 @@ Although I have tried to make this essay as accessible as possible, readers inte
 
   
 
-### **I. What We’ve Been Pricing All Along**
+## **I. What We’ve Been Pricing All Along**
 
 *“We do not trade certainty. We trade our willingness to own uncertainty.”*
 
