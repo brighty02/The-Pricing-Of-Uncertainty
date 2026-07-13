@@ -195,11 +195,7 @@ Markets never observe confidence itself. They only observe the positions through
 Conceptually, price changes emerge from the imbalance between aggregate demand and aggregate supply,
 
 $$
-\Delta P
-\propto
-\sum_{\text{buyers}} X_i
--
-\sum_{\text{sellers}} X_i
+\Delta P \propto \sum_{\text{buyers}} X_i - \sum_{\text{sellers}} X_i
 $$
 
 This equation should not be interpreted as a complete pricing model, rather, it captures a simple but important principle: prices adjust because the collective willingness to acquire uncertainty differs from the collective willingness to relinquish it.
