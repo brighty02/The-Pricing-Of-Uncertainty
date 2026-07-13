@@ -1,3 +1,5 @@
+# The Pricing Of Uncertainty
+
 ### Preface
 
 This essay is an exploration of an idea still in development.
