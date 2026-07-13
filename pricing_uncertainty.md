@@ -193,6 +193,7 @@ The intuition is straightforward. As confidence rises above the agent's confiden
 Markets never observe confidence itself. They only observe the positions through which confidence is expressed. Once millions of participants independently determine their desired exposures, these individual intentions become aggregated through bids and offers. At any moment, some participants wish to increase their exposure to uncertainty, while others wish to reduce it. The interaction between these competing intentions is what ultimately gives rise to market prices.
 
 Conceptually, price changes emerge from the imbalance between aggregate demand and aggregate supply,
+
 $$
 \Delta P
 \propto
